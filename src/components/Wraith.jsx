@@ -10,7 +10,6 @@ export function Wraith(props) {
   const group = useRef()
   const { nodes, materials, animations } = useGLTF('/models/wraith.glb')
   const { actions } = useAnimations(animations, group)
-  console.log(actions);
   useEffect(()=>{
     actions["Armature|mixamo.com|Layer0"].reset().fadeIn(0.5).play();
     return() => actions["Armature|mixamo.com|Layer0"].fadeOut(0.5);
