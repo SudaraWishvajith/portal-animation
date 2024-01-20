@@ -1,10 +1,5 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
 
-```
-yarn
-yarn dev
-```
+A sample web application built using R3F-MeshPortalMaterial
 
+https://github.com/SudaraWishvajith/PS4-react/assets/93005479/0ace6505-a4c8-471e-8b50-5bdf935c4bbc
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
